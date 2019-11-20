@@ -27,4 +27,5 @@ def recorreColumnasFC(matriz, cantidadColumnas,contaColumnas, posicionFilas):
 tengo esto
 
 pero no me sirve
+debe ser funcion iterativa
 '''
