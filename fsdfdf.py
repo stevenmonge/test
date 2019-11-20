@@ -24,11 +24,10 @@ def recorreColumnasFC(matriz, cantidadColumnas,contaColumnas, posicionFilas):
     else:
         return recorreColumnasFC(matriz,cantidadColumnas,contaColumnas +1, posicionFilas)
  
-'''
-tengo esto
 
-pero no me sirve
-debe ser funcion iterativa
 '''
-
-# escriba bien el enunciado.
+debe crear una funcion interativa que  permita cambiar los elementos de las diagonales
+ejemplo         
+asi entra[[1,2,3],[4,5,6],[7,8,9]]
+asi sale[[3,2,1],[4,5,6],[9,8,7]]
+'''
