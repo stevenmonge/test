@@ -23,5 +23,12 @@ def recorreColumnasFC(matriz, cantidadColumnas,contaColumnas, posicionFilas):
         return 0
     else:
         return recorreColumnasFC(matriz,cantidadColumnas,contaColumnas +1, posicionFilas)
-            
- # escriba el enunciado bien q no se entiende
+ 
+'''
+tengo esto
+
+pero no me sirve
+debe ser funcion iterativa
+'''
+
+# escriba bien el enunciado.
