@@ -30,4 +30,5 @@ debe crear una funcion interativa que  permita cambiar los elementos de las diag
 ejemplo         
 asi entra[[1,2,3],[4,5,6],[7,8,9]]
 asi sale[[3,2,1],[4,5,6],[9,8,7]]
+debe ser iterativa
 '''
