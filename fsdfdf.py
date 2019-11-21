@@ -53,5 +53,8 @@ def invertirDiagonales(matriz):
     print("la invertida es: ")      # no se imprime pero se retorna: 
     return matriz
                 
-                
+   '''
+lo tengo graciiiias
+'''
+   
  
