@@ -54,13 +54,4 @@ def invertirDiagonales(matriz):
     return matriz
                 
                 
-
-
-
-                      
-            
-
-
-
-
-              
+ 
